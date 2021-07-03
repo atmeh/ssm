@@ -1,0 +1,2 @@
+# ssm
+super simple machine
